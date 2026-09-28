@@ -26,7 +26,7 @@ import { Route, Switch, useLocation, Router as WouterRouter } from 'wouter';
 const queryClient = new QueryClient();
 
 // Edit these values to personalize the portfolio in one place.
-const siteName = 'Your Name';
+const siteName = 'Sherif';
 const emailAddress = 'your.email@example.com';
 
 const projects = [
